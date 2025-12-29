@@ -1,5 +1,4 @@
-#Built-in Data Types
-
+**Built-in Data Types**
 * Text Type: str
 * Numeric Types: int, float
 * Sequence Types: list, tuple
@@ -8,17 +7,17 @@
 * Boolean Type: bool
 
 
-#Example 							Data Type
-x = "Hello World"   				str
-x = 20								int
-x = 20.5							float
-x = 1j								complex
-x = ["apple", "banana", "cherry"] 	list
-x = ("apple", "banana", "cherry")	tuple
-x = range(6)						range
-x = {"name" : "John", "age" : 36}	dict
-x = {"apple", "banana", "cherry"}	set
-x = True							bool
+**Example 							Data Type**
+* x = "Hello World"   				str
+* x = 20								int
+* x = 20.5							float
+* x = 1j								complex
+* x = ["apple", "banana", "cherry"] 	list
+* x = ("apple", "banana", "cherry")	tuple
+* x = range(6)						range
+* x = {"name" : "John", "age" : 36}	dict
+* x = {"apple", "banana", "cherry"}	set
+* x = True							bool
 
 
 #Multiline Strings
