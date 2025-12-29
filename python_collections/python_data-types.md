@@ -7,13 +7,13 @@
 * Boolean Type: bool
 
 
-|**Example | Data Type**|
+|Example | Data Type|
 |----------|------------|
 |x = "Hello World" | str |
-* x = 20								int
-* x = 20.5							float
-* x = 1j								complex
-* x = ["apple", "banana", "cherry"] 	list
+|x = 20 | int |
+|x = 20.5 |	float |
+|x = 1j |complex |
+|x = ["apple", "banana", "cherry"] | list |
 * x = ("apple", "banana", "cherry")	tuple
 * x = range(6)						range
 * x = {"name" : "John", "age" : 36}	dict
