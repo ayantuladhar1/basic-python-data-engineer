@@ -1,14 +1,15 @@
-#In the example below, we use the + operator to add together two values:
-print(10 + 5)
+#In the example below, we use the + operator to add together two values:  
+print(10 + 5)  
 
-#Python 	Arithmetic 		Operators
-	+		Addition		x + y
-	-		Subtraction		x - y
-	*		Multiplication	x * y
-	/		Division		x / y
-	%		Modulus			x % y
-	**		Exponentiation	x ** y
-	//		Floor division	x // y
+|Python | Arithmetic | Operators |
+|-------|------------|-----------|
+|+ | Addition |	x + y|
+|- | Subtraction | x - y|
+|* | Multiplication	x * y|
+|/ | Division | x / y|
+|% | Modulus | x % y|
+|**	| Exponentiation | x ** y|
+|//	| Floor division | x // y|
 
 
 #Python Assignment Operators
