@@ -39,74 +39,84 @@ ut labore et dolore magna aliqua.'''
 print(a)
 ```
 
-```python
 #Python - Slicing Strings  
 You can return a range of characters by using the slice syntax.  
 Specify the start index and the end index, separated by a colon, to return a part of the string.  
 Get the characters from position 2 to position 5 (not included):  
-```
 
+```python
 b = "Hello, World!"  
-print(b[2:5])  
+print(b[2:5])
+```
 
 
 #Get the characters from the start to position 5 (not included):  
+```python
 b = "Hello, World!"  
 print(b[:5])  
-
+```
 
 #Get the characters from position 2, and all the way to the end:  
+```python
 b = "Hello, World!"  
 print(b[2:])  
-
+```
 
 #Negative Indexing  
 Use negative indexes to start the slice from the end of the string:  
 Get the characters:  
 From: "o" in "World!" (position -5)  
 To, but not included: "d" in "World!" (position -2) not included:  
+```python
 b = "Hello, World!"  
 print(b[-5:-2])  
-
+```
 
 #The upper() method returns the string in upper case:  
+```python
 a = "Hello, World!"  
 print(a.upper())  
-
+```
 
 #The lower() method returns the string in lower case:  
+```python
 a = "Hello, World!"  
 print(a.lower())  
-
+```
 
 #The strip() method removes any whitespace from the beginning or the end:  
+```python
 a = " Hello, World! "  
 print(a.strip()) # returns "Hello, World!"  
-
+```
 
 #The replace() method replaces a string with another string:  
+```python
 a = "Hello, World!"  
 print(a.replace("H", "J"))  
-
+```
 
 #The split() method splits the string into substrings if it finds instances of the separator:  
+```python
 a = "Hello, World!"  
 print(a.split(",")) # returns ['Hello', ' World!']  
-
+```
 
 #String Concatenation  
 Merge variable a with variable b into variable c:  
+```python
 a = "Hello"  
 b = "World"  
 c = a + b  
-
+```
 
 #To add a space between them, add a " ":  
+```python
 a = "Hello"  
 b = "World"  
 c = a + " " + b  
 print(c)  
-
+```
 
 #we cannot combine strings and numbers like this:  
 age = 36  
