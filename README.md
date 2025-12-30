@@ -6,7 +6,8 @@ The fundamental componenets of Python.
 * Control Structures: Conditional Statements, Loops
 * Functions and Modules
 * OOPs(Object Oriented Programming)
-* Error Handling and Exceptions  
+* Error Handling and Exceptions
+
 **Key Characteristics:**
 * Ordered: Items have a defined sequence, which will not change unless modified through specific methods like sort() or reverse().  
 * Changeable (Mutable): You can modify, add, or remove elements after the list has been created.  
