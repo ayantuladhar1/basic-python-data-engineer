@@ -128,7 +128,7 @@ thislist = ["apple", "banana", "cherry", "banana", "kiwi"]
 thislist.remove("banana")
 print(thislist)
 ```
-<img width="459" height="64" alt="image" src="https://github.com/user-attachments/assets/009db17f-7910-457b-99d3-27eaa84fb08e" />
+<img width="399" height="38" alt="image" src="https://github.com/user-attachments/assets/0ed152e4-ebdd-4858-989f-ce5d605706b8" />
 
 Remove Specified Index
 The pop() method removes the specified index.
