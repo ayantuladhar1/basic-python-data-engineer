@@ -1,38 +1,45 @@
-What is a Function?
-A function is a block of reusable code that runs only when called.
+# What is a Function?
+* A function is a block of reusable code that runs only when called.
 
-Syntax:
+# Syntax:
+```python
 	def function_name(parameters):
 	    statements
 	    return value
-
-Basic Function Example:
+```
+# Basic Function Example:
+```python
 	def greet():
 	    print("Hello, Welcome to Python")
 	greet()
-	
-Function with Parameters:
+```
+# Function with Parameters:
+```python
 	def add_numbers(a, b):
 	    return a + b
 	result = add_numbers(10, 20)
 	print(result)
-	
-Function with Default Parameters:
+```
+# Function with Default Parameters:
+```python
 	def country(name="USA"):
 	    print("Country is:", name)
 	country()
 	country("Nepal")
-	
-Function Using If-Else:
+```
+# Function Using If-Else:
+```python
 	def check_even_odd(num):
 	    if num % 2 == 0:
 	        return "Even"
 	    else:
 	        return "Odd"
 	print(check_even_odd(10))
-	
-Function Using List:
+```
+# Function Using List:
+```python
 	def total_marks(marks):
 	    return sum(marks)
 	marks = [80, 90, 85]
 	print(total_marks(marks))
+```
